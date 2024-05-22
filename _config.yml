@@ -12,7 +12,7 @@ title                    : "Kensuke Sakamoto"
 title_separator          : "-"
 name                     : &name "Kensuke Sakamoto"
 description              : &description "personal description"
-url                      : https://kensakamoto.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kensakamot.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kensakamot/kensakamoto.github.io"
 
