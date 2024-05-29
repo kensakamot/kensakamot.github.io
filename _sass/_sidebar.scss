@@ -75,7 +75,11 @@
 /*
    Author profile and links
    ========================================================================== */
-/*
+
+.hidden {
+  display: none;
+}
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
@@ -99,7 +103,7 @@
     }
   }
 }
-*/
+
 
 .author__content {
   display: table-cell;
