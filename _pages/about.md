@@ -15,7 +15,7 @@ My research interests are in econometrics, especially in network econometrics an
 ## Working Papers
 
 
-[**Dyadic Regression with Sample Selection**](/files/draft.pdf)
+[**Dyadic Regression with Sample Selection**](/files/dyadic_draft.pdf)
 
 
 **Causal Inference under Endogenous Interference Networks**
