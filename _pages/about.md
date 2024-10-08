@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th year Ph.D. student in Economics at the University of Wisconsin-Madison. 
+I am a 5th year Ph.D. student in Economics at the University of Wisconsin-Madison. 
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
@@ -19,4 +19,8 @@ My research interests are in econometrics, especially in network econometrics an
 
 
 **Causal Inference under Endogenous Interference Networks**
+
+**Network Robust Inference for Fixed Effect Regressions**
+
+**Network Experiments with Network Uncertainty** with [Yuya Shimizu](https://yshimizu-econ.github.io/)
 
