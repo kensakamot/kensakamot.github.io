@@ -14,13 +14,13 @@ My research interests are in econometrics, especially in network econometrics an
 
 ## Working Papers
 
+**Network Robust Inference for Fixed Effect Regressions** (JMP)
+
+[**Network Experiments with Network Uncertainty**](/files/network_experiment.pdf) with [Yuya Shimizu](https://yshimizu-econ.github.io/)
 
 [**Dyadic Regression with Sample Selection**](/files/dyadic_draft.pdf)
 
-
 **Causal Inference under Endogenous Interference Networks**
 
-**Network Robust Inference for Fixed Effect Regressions**
 
-**Network Experiments with Network Uncertainty** with [Yuya Shimizu](https://yshimizu-econ.github.io/)
 
