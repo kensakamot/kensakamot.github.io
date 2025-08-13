@@ -21,7 +21,7 @@ repository               : "kensakamot/kensakamoto.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "headshot.JPG"
   name             : "Kensuke Sakamoto"
   pronouns         : # example: "she/her"  
   bio              : #"4th year PhD student in Economics at the University of Wisconsin-Madison"
