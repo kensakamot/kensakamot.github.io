@@ -13,6 +13,13 @@ I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madiso
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
+## Conference Schedule
+Scheduled
+- Celebrating James MacKinnon Conference (September 18-19, 2025)
+- Canadian Econometrics Study Group (October 17-19, 2025)
+Completed
+- New York Camp Econometrics XIX (April 25-27, 2025)
+- Bristol Econometric Study Group Conference (July 9-11, 2025)
 
 ## Working Papers
 
