@@ -15,7 +15,7 @@ My research interests are in econometrics, especially in network econometrics an
 
 ## Job Market Paper
 
-[**Network Robust Inference for Fixed-Effect Regressions](/files/network_fixed_effects.pdf)
+[**Network Robust Inference for Fixed-Effect Regressions**](/files/network_fixed_effects.pdf)
 
 ## Working Papers
 
@@ -23,10 +23,11 @@ My research interests are in econometrics, especially in network econometrics an
 
 [**Dyadic Regression with Sample Selection**](/files/dyadic_draft.pdf)
 
+## Work in Progress
+
 **Causal Inference under Endogenous Interference Networks**
 
 **Network Regression Discontinuity Designs**
-
 
 ## Conference Schedule
 Scheduled
