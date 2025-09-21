@@ -31,11 +31,10 @@ My research interests are in econometrics, especially in network econometrics an
 
 ## Conference Schedule
 Scheduled
-- Celebrating James MacKinnon Conference (September 18-19, 2025)
 - Midwest Econometrics Group Conference (October 3-4, 2025)
 - Canadian Econometrics Study Group (October 17-19, 2025)
 
 Completed
 - New York Camp Econometrics XIX (April 25-27, 2025)
 - Bristol Econometric Study Group Conference (July 9-11, 2025)
-
+- Celebrating James MacKinnon Conference (September 18-19, 2025)
