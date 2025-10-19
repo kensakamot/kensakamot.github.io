@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison.
 
-**I will be on the job market during the 2025-2026 academic year**. Here is my [CV](/files/cv_2025_10.pdf).
+**I will be on the job market during the 2025-2026 academic year**. Here is my [CV](/files/cv_2025_10_19.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
@@ -31,9 +31,10 @@ My research interests are in econometrics, especially in network econometrics an
 
 ## Conference Schedule
 Scheduled
-- Canadian Econometrics Study Group (October 17-19, 2025)
+- 4th International Econometrics PhD Conference 2025 at the Econometric Institute in Rotterdam (November 17-18,2025)
 
 Completed
+- Canadian Econometrics Study Group (October 17-19, 2025)
 - New York Camp Econometrics XIX (April 25-27, 2025)
 - Bristol Econometric Study Group Conference (July 9-11, 2025)
 - Celebrating James MacKinnon Conference (September 18-19, 2025)
