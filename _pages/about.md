@@ -9,7 +9,7 @@ redirect_from:
 
 I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison.
 
-**I will be on the job market during the 2025-2026 academic year**. Here is my [CV](/files/cv_2025_10_19.pdf).
+**I will be on the job market during the 2025-2026 academic year**. Here is my [CV](/files/cv_sakamoto.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
