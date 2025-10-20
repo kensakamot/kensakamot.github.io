@@ -24,7 +24,8 @@ highlights the substantial impact of dependence on inference and variance estima
 
 ## Working Papers
 
-[**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/) <br> <details markdown="1">
+[**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/) 
+<details markdown="1">
   <summary>Abstract</summary>
   <p>
   Ordinary least squares (OLS) estimators are widely used in network experiments to estimate spillover effects. We study the causal interpretation of, and inference for the OLS estimator under both design-based uncertainty from random treatment assignment and sampling-based uncertainty in network links. We show that correlations among regressors that capture the exposure to neighbors' treatments can induce contamination bias, preventing OLS from aggregating heterogeneous spillover effects for a clear causal interpretation. We derive the OLS estimator's asymptotic distribution and propose a network-robust variance estimator. Simulations and an empirical application demonstrate that contamination bias can be substantial, leading to inflated spillover estimates.
