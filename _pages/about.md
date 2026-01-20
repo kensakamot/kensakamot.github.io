@@ -27,7 +27,7 @@ My research interests are in econometrics, especially in network econometrics an
 
 ## Working Papers
 
-[**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/)
+[**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/)<br>revise and resubmit, **Review of Economics and Statistics**
 <details markdown="1">
   <summary>Abstract</summary>
   <p>
