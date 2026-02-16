@@ -7,9 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison.
-
-Here is my [CV](/files/cv_sakamoto.pdf).
+I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
@@ -24,6 +22,7 @@ My research interests are in econometrics, especially in network econometrics an
   highlights the substantial impact of dependence on inference and variance estimation.
   </p>
 </details>
+<br>
 
 
 [**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/)<br>revise and resubmit, **Review of Economics and Statistics**
