@@ -9,13 +9,13 @@ redirect_from:
 
 I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison.
 
-**I'm on the job market during the 2025-2026 academic year**. Here is my [CV](/files/cv_sakamoto.pdf).
+Here is my [CV](/files/cv_sakamoto.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
-## Job Market Paper
+## Working Papers
 
-[**Network Robust Inference for Fixed-Effect Regressions**](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th Annual Canadian Econometrics Study Group Meeting!** 
+[**Network Robust Inference for Fixed-Effect Regressions** (JMP)](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th Annual Canadian Econometrics Study Group Meeting!** 
 <details>
   <summary>Abstract</summary>
   <p>
@@ -25,7 +25,6 @@ My research interests are in econometrics, especially in network econometrics an
   </p>
 </details>
 
-## Working Papers
 
 [**Network Experiments with Network Uncertainty**](/files/network_experiment_ver2.pdf) <br> with [Yuya Shimizu](https://yshimizu-econ.github.io/)<br>revise and resubmit, **Review of Economics and Statistics**
 <details markdown="1">
@@ -50,11 +49,3 @@ My research interests are in econometrics, especially in network econometrics an
 
 **Network Regression Discontinuity Designs**
 
-## Conference Schedule
-Completed
-- New York Camp Econometrics XIX (April 25-27, 2025)
-- Bristol Econometric Study Group Conference (July 9-11, 2025)
-- Celebrating James MacKinnon Conference (September 18-19, 2025)
-- Midwest Econometrics Group Conference (October 3-4, 2025)
-- Canadian Econometrics Study Group (October 17-19, 2025)
-- 4th International Econometrics PhD Conference 2025 at the Econometric Institute in Rotterdam (November 17-18,2025)
