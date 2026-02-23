@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a 6th year Ph.D. student in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
+I am a Ph.D. candidate in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
+
+I will be joining McGill University Department of Economics as an Assistant Professor in Fall 2026.
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
 ## Working Papers
 
-[**Network Robust Inference for Fixed-Effect Regressions** (JMP)](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th Annual Canadian Econometrics Study Group Meeting!** 
+[**Network Robust Inference for Fixed-Effect Regressions** (JMP)](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th CESG Annual Meeting** 
 <details>
   <summary>Abstract</summary>
   <p>
