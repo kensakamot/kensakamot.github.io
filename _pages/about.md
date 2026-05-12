@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
+I received Ph.D. in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
 
 I will be joining McGill University Department of Economics as an Assistant Professor in Fall 2026.
 
