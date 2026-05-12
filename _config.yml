@@ -25,8 +25,8 @@ author:
   name             : "Kensuke Sakamoto"
   pronouns         : # example: "she/her"  
   bio              : #"4th year PhD student in Economics at the University of Wisconsin-Madison"
-  location         : "Madison, WI"
-  employer         : "University of Wisconsin-Madison"
+  location         : #"Madison, WI"
+  employer         : #"University of Wisconsin-Madison"
   uri              : # URL
   email            : "kenlfo2080@gmail.com" 
 
