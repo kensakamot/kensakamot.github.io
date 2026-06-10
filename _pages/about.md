@@ -7,15 +7,22 @@ redirect_from:
   - /about.html
 ---
 
-I received Ph.D. in Economics at the University of Wisconsin-Madison. Here is my [CV](/files/cv_sakamoto.pdf).
-
-I will be joining McGill University Department of Economics as an Assistant Professor in Fall 2026.
+I am an incoming Assistant Professor of Economics at McGill University.  Here is my [CV](/files/cv_sakamoto.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
 ## Working Papers
 
-[**Network Robust Inference for Fixed-Effect Regressions** (JMP)](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th CESG Annual Meeting** 
+[**Estimation and Inference in a Peer Effects Model under Heteroskedasticity**](/files/HSS_peer.pdf) <br> with [Long Hong](https://www.long-hong.com/home) and [Mikkel Sølvsten](https://sites.google.com/site/mikkelsoelvsten/) 
+<details markdown="1">
+  <summary>Abstract</summary>
+  <p>
+  This paper develops estimation and inference for a panel-data peer-effects model with an unobserved individual-specific characteristic and heteroskedastic errors. The non-linear least squares (NLLS) estimator widely used in this literature is inconsistent under heteroskedasticity, with bias of indeterminate sign. We propose a cross-fit correction that delivers a consistent estimator robust to heteroskedasticity, and we provide the first analytic standard error for the non-linear peer-effects estimator, while the literature has relied on wild-bootstrap procedures. We apply the method to two empirical settings. In university transcript data from the COVID-19 online semester, NLLS finds a positive and significant classroom peer effect, whereas our estimator finds it close to zero and statistically insignificant; in the Italian matched employer--employee panel, by contrast, our estimate is about 15\% larger than the NLLS estimate. The bias-corrected wage-variance decomposition further reveals that average coworker quality explains a share of wage variance comparable to that of firm effects - a channel the standard AKM model cannot see - with worker-coworker sorting as the dominant margin.
+  </p>
+</details>
+<br>
+
+[**Network Robust Inference for Fixed-Effect Regressions**](/files/network_fixed_effects.pdf)<br> **Awarded Best Graduate Poster Prize at the 40th CESG Annual Meeting** 
 <details>
   <summary>Abstract</summary>
   <p>
