@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming Assistant Professor of Economics at McGill University.  Here is my [CV](/files/cv_sakamoto.pdf).
+I am an Assistant Professor of Economics at McGill University.  Here is my [CV](/files/cv_sakamoto.pdf).
 
 My research interests are in econometrics, especially in network econometrics and its applications.
 
