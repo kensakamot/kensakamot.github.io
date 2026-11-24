@@ -57,8 +57,9 @@ My research interests are in econometrics, especially in network econometrics an
 
 **Network Regression Discontinuity Designs**
 
-## Scheduled Talks
-- Microeconometrics Class of 2026 Conference, September 18-19
-- Midwest Econometrics Group October 9-10
-- Canadian Econometrics Study Group Meeting, October 16-18
+## Scheduled Conference Talks
+- NBER Workshop on Development Economics and Networks for Early-Stage Researchers, December 5
+- ~~Microeconometrics Class of 2026 Conference, September 18-19~~
+- ~~Midwest Econometrics Group October 9-10~~
+- ~~Canadian Econometrics Study Group Meeting, October 16-18~~
 
